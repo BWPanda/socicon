@@ -4,4 +4,4 @@ These social network icon PNGs were created using the [Socicon Generator](http:/
 
 All credit for them goes to [Socicon](http://www.socicon.com/).
 
-Last updated: 2nd Nov 2016
+Last updated: 19th Jan 2017
